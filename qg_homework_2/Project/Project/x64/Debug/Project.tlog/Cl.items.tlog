@@ -1,0 +1,11 @@
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\main.c;C:\Users\59745\Desktop\qg_homework_2\Project\Project\x64\Debug\main.obj
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\Stack.h;C:\Users\59745\Desktop\qg_homework_2\Project\Project\x64\Debug\Stack.obj
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\入栈.c;C:\Users\59745\Desktop\qg_homework_2\Project\Project\x64\Debug\入栈.obj
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\出栈.c;C:\Users\59745\Desktop\qg_homework_2\Project\Project\x64\Debug\出栈.obj
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\初始化链栈.c;C:\Users\59745\Desktop\qg_homework_2\Project\Project\x64\Debug\初始化链栈.obj
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\判断链栈是否为空.c;C:\Users\59745\Desktop\qg_homework_2\Project\Project\x64\Debug\判断链栈是否为空.obj
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\获取栈的大小.c;C:\Users\59745\Desktop\qg_homework_2\Project\Project\x64\Debug\获取栈的大小.obj
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\计算器.c;C:\Users\59745\Desktop\qg_homework_2\Project\Project\x64\Debug\计算器.obj
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\访问栈顶元素.c;C:\Users\59745\Desktop\qg_homework_2\Project\Project\x64\Debug\访问栈顶元素.obj
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\遍历链栈.c;C:\Users\59745\Desktop\qg_homework_2\Project\Project\x64\Debug\遍历链栈.obj
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\销毁链栈.c;C:\Users\59745\Desktop\qg_homework_2\Project\Project\x64\Debug\销毁链栈.obj

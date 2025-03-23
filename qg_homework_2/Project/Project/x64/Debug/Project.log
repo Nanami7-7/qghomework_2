@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\main.c(44,14): warning C4013: “strcspn”未定义；假设外部返回 int
+C:\Users\59745\Desktop\qg_homework_2\Project\Project\main.c(46,39): warning C4013: “evaluateExpression”未定义；假设外部返回 int
+  Project.vcxproj -> C:\Users\59745\Desktop\qg_homework_2\Project\x64\Debug\Project.exe
